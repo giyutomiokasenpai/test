@@ -1,0 +1,5 @@
+.gitignpre
+__pycache__
+.pytest_cahce
+.venv
+.coverage

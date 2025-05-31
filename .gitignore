@@ -1,4 +1,4 @@
-.gitignpre
+.gitignore
 __pycache__
 .pytest_cahce
 .venv
